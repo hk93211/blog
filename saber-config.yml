@@ -1,5 +1,6 @@
 plugins:
   - resolve: saber-plugin-query-posts
+  
   - resolve: saber-plugin-prismjs
 
 siteConfig:

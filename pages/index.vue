@@ -25,9 +25,6 @@ export default {
     Contact,
   },
   props: ['page'],
-  created() {
-    console.log(this);
-  },
 }
 </script>
 

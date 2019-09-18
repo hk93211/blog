@@ -34,9 +34,6 @@ export default {
       return this.$themeConfig.nav
     },
   },
-  created() {
-    console.log(this);
-  },
 }
 </script>
 

@@ -21,9 +21,6 @@ export default {
   props: {
     posts: Array,
   },
-  created() {
-    console.log(this.posts);
-  },
   computed: {
     postsList() {
       return this.posts.sort(function(a, b) {
