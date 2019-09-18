@@ -577,18 +577,6 @@
               }
             },
 {
-              path: "/posts/hello.html",
-              meta: {
-                __relative: '_posts/hello.md',
-                __pageId: '2458697d'
-              },
-              component: function() {
-                
-                return import(/* webpackChunkName: "page--_posts-hello-md" */ "/Users/huangkun/Saber/pages/_posts/hello.md?saberPage=2458697d")
-                
-              }
-            },
-{
               path: "/",
               meta: {
                 __relative: 'index.vue',

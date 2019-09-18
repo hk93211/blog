@@ -13,7 +13,9 @@
   "dependencies": {
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
+    "prismjs": "^1.17.1",
     "saber": "^0.8.1",
+    "saber-plugin-prismjs": "^0.2.3",
     "saber-plugin-query-posts": "^0.4.2"
   }
 }

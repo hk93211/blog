@@ -26,14 +26,12 @@ export default {
   },
   computed: {
     postsList() {
-      const aa = this.posts.sort(function(a, b) {
+      return this.posts.sort(function(a, b) {
         const aaa = a.slug.substring(0, 8)
         const bbb = b.slug.substring(0, 8)
 
         return new Date(getCreatedDate(aaa)) - new Date(getCreatedDate(bbb))
       })
-      console.log(aa);
-      return aa
     }
   },
   methods: {

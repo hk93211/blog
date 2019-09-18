@@ -1,7 +1,13 @@
 <template>
   <div>
     <Header />
-    <slot name="default" />
+    
+    <div class="post-body">
+      <h1 class="title">{{page.title}}</h1>
+      <p class="date">{{getCreatedDate(page.slug)}}</p>
+      <slot name="default" />
+    </div>
+
     <Footer />
   </div>
 </template>

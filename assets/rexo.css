@@ -758,9 +758,9 @@
     max-width: 30%;
   }
   
-  code {
+  /* code {
     padding: 1rem !important;
-  }
+  } */
   
   p code {
     padding: 0.2em 0.4em !important;
