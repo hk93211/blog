@@ -773,3 +773,10 @@
   strong {
     background: #efefef;
   }
+  table {
+    border-collapse: collapse;
+  }
+
+  table, th, td {
+    border: 1px solid gray;
+  }
