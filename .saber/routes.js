@@ -589,6 +589,18 @@
               }
             },
 {
+              path: "/posts/20190920-Git-stash.html",
+              meta: {
+                __relative: '_posts/20190920-Git-stash.md',
+                __pageId: '31521e41'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20190920-Git-stash-md" */ "/Users/huangkun/Saber/pages/_posts/20190920-Git-stash.md?saberPage=31521e41")
+                
+              }
+            },
+{
               path: "/page/2",
               meta: {
                 __relative: 'index.vue',
