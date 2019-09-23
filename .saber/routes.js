@@ -361,18 +361,6 @@
               }
             },
 {
-              path: "/posts/20181006-vue入门.html",
-              meta: {
-                __relative: '_posts/20181006-vue入门.md',
-                __pageId: '62784bd6'
-              },
-              component: function() {
-                
-                return import(/* webpackChunkName: "page--_posts-20181006-vue---md" */ "/Users/huangkun/Saber/pages/_posts/20181006-vue入门.md?saberPage=62784bd6")
-                
-              }
-            },
-{
               path: "/posts/20181028-eslint.html",
               meta: {
                 __relative: '_posts/20181028-eslint.md',
@@ -597,6 +585,18 @@
               component: function() {
                 
                 return import(/* webpackChunkName: "page--_posts-20190920-Git-stash-md" */ "/Users/huangkun/Saber/pages/_posts/20190920-Git-stash.md?saberPage=31521e41")
+                
+              }
+            },
+{
+              path: "/posts/20180823-vue入门.html",
+              meta: {
+                __relative: '_posts/20180823-vue入门.md',
+                __pageId: '6abb10b1'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20180823-vue---md" */ "/Users/huangkun/Saber/pages/_posts/20180823-vue入门.md?saberPage=6abb10b1")
                 
               }
             },
