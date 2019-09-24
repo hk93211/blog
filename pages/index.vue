@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <About />
-    <Posts :posts="page.posts" />
+    <Posts :posts="page.posts" :pagination="page.pagination" />
     <Skill />
     <Contact />
   </div>

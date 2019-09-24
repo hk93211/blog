@@ -253,6 +253,18 @@
               }
             },
 {
+              path: "/posts/20180823-vue入门.html",
+              meta: {
+                __relative: '_posts/20180823-vue入门.md',
+                __pageId: '6abb10b1'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20180823-vue---md" */ "/Users/huangkun/Saber/pages/_posts/20180823-vue入门.md?saberPage=6abb10b1")
+                
+              }
+            },
+{
               path: "/posts/20180824-vue-computed.html",
               meta: {
                 __relative: '_posts/20180824-vue-computed.md',
@@ -565,18 +577,6 @@
               }
             },
 {
-              path: "/",
-              meta: {
-                __relative: 'index.vue',
-                __pageId: '58954219'
-              },
-              component: function() {
-                
-                return import(/* webpackChunkName: "page--index-vue" */ "/Users/huangkun/Saber/pages/index.vue?saberPage=58954219")
-                
-              }
-            },
-{
               path: "/posts/20190920-Git-stash.html",
               meta: {
                 __relative: '_posts/20190920-Git-stash.md',
@@ -589,14 +589,14 @@
               }
             },
 {
-              path: "/posts/20180823-vue入门.html",
+              path: "/",
               meta: {
-                __relative: '_posts/20180823-vue入门.md',
-                __pageId: '6abb10b1'
+                __relative: 'index.vue',
+                __pageId: '58954219'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--_posts-20180823-vue---md" */ "/Users/huangkun/Saber/pages/_posts/20180823-vue入门.md?saberPage=6abb10b1")
+                return import(/* webpackChunkName: "page--index-vue" */ "/Users/huangkun/Saber/pages/index.vue?saberPage=58954219")
                 
               }
             },

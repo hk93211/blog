@@ -9,6 +9,10 @@
         <span class="post-list-date">({{getCreatedDate(post.slug)}})</span>
       </li>
     </ul>
+    <div class="pagination">
+      <a v-if="pagination.hasPrev" :href="pagination.prevLink">更多文章...</a>
+      <a v-if="pagination.hasNext" :href="pagination.nextLink">返回</a>
+    </div>
   </div>
 </template>
 
@@ -20,6 +24,7 @@ function getCreatedDate(slug) {
 export default {
   props: {
     posts: Array,
+    pagination: Object,
   },
   computed: {
     postsList() {
@@ -36,7 +41,7 @@ export default {
       const dateStr = slug.substring(0, 8);
       return dateStr.replace(/^(\d{4})(\d{2})(\d{2})$/g, '$1-$2-$3');
     },
-  }
+  },
 }
 </script>
 
