@@ -445,18 +445,6 @@
               }
             },
 {
-              path: "/posts/20190221-Waiting(TTFB)时间过长.html",
-              meta: {
-                __relative: '_posts/20190221-Waiting(TTFB)时间过长.md',
-                __pageId: '7bc07c19'
-              },
-              component: function() {
-                
-                return import(/* webpackChunkName: "page--_posts-20190221-Waiting-TTFB------md" */ "/Users/huangkun/Saber/pages/_posts/20190221-Waiting(TTFB)时间过长.md?saberPage=7bc07c19")
-                
-              }
-            },
-{
               path: "/posts/20190419-nginx基础知识.html",
               meta: {
                 __relative: '_posts/20190419-nginx基础知识.md',
@@ -597,6 +585,18 @@
               component: function() {
                 
                 return import(/* webpackChunkName: "page--index-vue" */ "/Users/huangkun/Saber/pages/index.vue?saberPage=58954219")
+                
+              }
+            },
+{
+              path: "/posts/20190221-TTFB时间过长.html",
+              meta: {
+                __relative: '_posts/20190221-TTFB时间过长.md',
+                __pageId: 'fca9f5d2'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20190221-TTFB-----md" */ "/Users/huangkun/Saber/pages/_posts/20190221-TTFB时间过长.md?saberPage=fca9f5d2")
                 
               }
             },
