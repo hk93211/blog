@@ -32,7 +32,7 @@ export default {
         const aaa = a.slug.substring(0, 8)
         const bbb = b.slug.substring(0, 8)
 
-        return new Date(getCreatedDate(aaa)) - new Date(getCreatedDate(bbb))
+        return new Date(getCreatedDate(bbb)) - new Date(getCreatedDate(aaa))
       })
     }
   },

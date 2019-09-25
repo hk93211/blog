@@ -445,6 +445,18 @@
               }
             },
 {
+              path: "/posts/20190221-TTFB时间过长.html",
+              meta: {
+                __relative: '_posts/20190221-TTFB时间过长.md',
+                __pageId: 'fca9f5d2'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20190221-TTFB-----md" */ "/Users/huangkun/Saber/pages/_posts/20190221-TTFB时间过长.md?saberPage=fca9f5d2")
+                
+              }
+            },
+{
               path: "/posts/20190419-nginx基础知识.html",
               meta: {
                 __relative: '_posts/20190419-nginx基础知识.md',
@@ -489,18 +501,6 @@
               component: function() {
                 
                 return import(/* webpackChunkName: "page--_posts-20190514-Express--webpack--HMR-md" */ "/Users/huangkun/Saber/pages/_posts/20190514-Express结合webpack实现HMR.md?saberPage=41139487")
-                
-              }
-            },
-{
-              path: "/posts/20190516-http基础知识.html",
-              meta: {
-                __relative: '_posts/20190516-http基础知识.md',
-                __pageId: '076cfda3'
-              },
-              component: function() {
-                
-                return import(/* webpackChunkName: "page--_posts-20190516-http-----md" */ "/Users/huangkun/Saber/pages/_posts/20190516-http基础知识.md?saberPage=076cfda3")
                 
               }
             },
@@ -577,6 +577,18 @@
               }
             },
 {
+              path: "/friends.html",
+              meta: {
+                __relative: 'friends.md',
+                __pageId: '279462c1'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--friends-md" */ "/Users/huangkun/Saber/pages/friends.md?saberPage=279462c1")
+                
+              }
+            },
+{
               path: "/",
               meta: {
                 __relative: 'index.vue',
@@ -589,14 +601,14 @@
               }
             },
 {
-              path: "/posts/20190221-TTFB时间过长.html",
+              path: "/recommend.html",
               meta: {
-                __relative: '_posts/20190221-TTFB时间过长.md',
-                __pageId: 'fca9f5d2'
+                __relative: 'recommend.md',
+                __pageId: '5cf5a40c'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--_posts-20190221-TTFB-----md" */ "/Users/huangkun/Saber/pages/_posts/20190221-TTFB时间过长.md?saberPage=fca9f5d2")
+                return import(/* webpackChunkName: "page--recommend-md" */ "/Users/huangkun/Saber/pages/recommend.md?saberPage=5cf5a40c")
                 
               }
             },

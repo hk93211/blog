@@ -1,11 +1,21 @@
 plugins:
   - resolve: saber-plugin-query-posts
-  
   - resolve: saber-plugin-prismjs
+  - resolve: saber-plugin-feed
+    options:
+      # Generate atom.xml
+      atomFeed: false
+      # Generate rss2.xml
+      rss2Feed: false
+      # Generate feed.json
+      jsonFeed: true
 
 siteConfig:
   title: Kwin's Blog
   name: Kwin Huang
+  author: Kwin
+  url: http://kw1n.com
+  email: hk93211@gmail.com
   description: 不会搞艺术的程序员不是好设计师
 
 themeConfig:
@@ -13,12 +23,12 @@ themeConfig:
     - text: Blog
       link: /
     - text: Donate
-      link: Donate.html
+      link: donate.html
     - text: About
-      link: About.html
+      link: about.html
     - text: Recommend
-      link: Recommend.html
+      link: recommend.html
     - text: Friends
-      link: Friends.html
+      link: friends.html
     - text: RSS
-      link: RSS.html
+      link: feed.json

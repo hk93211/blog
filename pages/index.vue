@@ -25,6 +25,9 @@ export default {
     Contact,
   },
   props: ['page'],
+  mounted() {
+    console.log(this.page);
+  },
 }
 </script>
 
