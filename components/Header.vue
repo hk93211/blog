@@ -31,6 +31,7 @@ export default {
       return this.$siteConfig.description
     },
     navList() {
+      console.log(this.$themeConfig.nav)
       return this.$themeConfig.nav
     },
   },
