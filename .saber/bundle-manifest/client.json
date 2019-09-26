@@ -7,7 +7,7 @@
     "images/request.4f054314.png",
     "images/shell-webpack.522fbde4.png",
     "js/404-page.a77602f9.js",
-    "js/client.5307f16d.js",
+    "js/client.d19dc075.js",
     "js/page--_posts-20150623-Hello-World-md.374eba0c.js",
     "js/page--_posts-20151023-markdown-----md.7afca722.js",
     "js/page--_posts-20160315-node---md.c9e50779.js",
@@ -61,7 +61,7 @@
     "js/page--recommend-md.50480860.js"
   ],
   "initial": [
-    "js/client.5307f16d.js"
+    "js/client.d19dc075.js"
   ],
   "async": [
     "js/404-page.a77602f9.js",
