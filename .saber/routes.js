@@ -577,6 +577,42 @@
               }
             },
 {
+              path: "/posts/20190922-事件委托代理.html",
+              meta: {
+                __relative: '_posts/20190922-事件委托代理.md',
+                __pageId: '6b9d6cc2'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20190922--------md" */ "/Users/huangkun/Saber/pages/_posts/20190922-事件委托代理.md?saberPage=6b9d6cc2")
+                
+              }
+            },
+{
+              path: "/posts/20190927-在循环中使用闭包.html",
+              meta: {
+                __relative: '_posts/20190927-在循环中使用闭包.md',
+                __pageId: 'f3d4bd96'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20190927----------md" */ "/Users/huangkun/Saber/pages/_posts/20190927-在循环中使用闭包.md?saberPage=f3d4bd96")
+                
+              }
+            },
+{
+              path: "/posts/20190929-事件的节流和防抖.html",
+              meta: {
+                __relative: '_posts/20190929-事件的节流和防抖.md',
+                __pageId: '44054fe0'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20190929----------md" */ "/Users/huangkun/Saber/pages/_posts/20190929-事件的节流和防抖.md?saberPage=44054fe0")
+                
+              }
+            },
+{
               path: "/friends.html",
               meta: {
                 __relative: 'friends.md',
@@ -609,30 +645,6 @@
               component: function() {
                 
                 return import(/* webpackChunkName: "page--recommend-md" */ "/Users/huangkun/Saber/pages/recommend.md?saberPage=5cf5a40c")
-                
-              }
-            },
-{
-              path: "/posts/20190922-事件委托代理.html",
-              meta: {
-                __relative: '_posts/20190922-事件委托代理.md',
-                __pageId: '6b9d6cc2'
-              },
-              component: function() {
-                
-                return import(/* webpackChunkName: "page--_posts-20190922--------md" */ "/Users/huangkun/Saber/pages/_posts/20190922-事件委托代理.md?saberPage=6b9d6cc2")
-                
-              }
-            },
-{
-              path: "/posts/20190927-在循环中使用闭包.html",
-              meta: {
-                __relative: '_posts/20190927-在循环中使用闭包.md',
-                __pageId: 'f3d4bd96'
-              },
-              component: function() {
-                
-                return import(/* webpackChunkName: "page--_posts-20190927----------md" */ "/Users/huangkun/Saber/pages/_posts/20190927-在循环中使用闭包.md?saberPage=f3d4bd96")
                 
               }
             },
