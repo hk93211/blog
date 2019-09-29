@@ -625,6 +625,18 @@
               }
             },
 {
+              path: "/posts/20190927-在循环中使用闭包.html",
+              meta: {
+                __relative: '_posts/20190927-在循环中使用闭包.md',
+                __pageId: 'f3d4bd96'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20190927----------md" */ "/Users/huangkun/Saber/pages/_posts/20190927-在循环中使用闭包.md?saberPage=f3d4bd96")
+                
+              }
+            },
+{
               path: "/page/2",
               meta: {
                 __relative: 'index.vue',
