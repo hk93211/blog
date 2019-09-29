@@ -613,6 +613,18 @@
               }
             },
 {
+              path: "/posts/20190922-事件委托代理.html",
+              meta: {
+                __relative: '_posts/20190922-事件委托代理.md',
+                __pageId: '6b9d6cc2'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20190922--------md" */ "/Users/huangkun/Saber/pages/_posts/20190922-事件委托代理.md?saberPage=6b9d6cc2")
+                
+              }
+            },
+{
               path: "/page/2",
               meta: {
                 __relative: 'index.vue',
