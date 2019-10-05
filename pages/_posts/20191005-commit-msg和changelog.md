@@ -86,3 +86,8 @@ conventional-changelog -p angular -i CHANGELOG.md -w -r 0
 
 https://github.com/angular/angular/commits/master
 
+http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
+
+https://www.npmjs.com/package/conventional-changelog-cli
+
+https://github.com/ajoslin/conventional-changelog
