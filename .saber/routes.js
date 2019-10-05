@@ -649,6 +649,18 @@
               }
             },
 {
+              path: "/posts/20191005-commit-msg和changelog.html",
+              meta: {
+                __relative: '_posts/20191005-commit-msg和changelog.md',
+                __pageId: '94ac090e'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20191005-commit-msg-changelog-md" */ "/Users/huangkun/Saber/pages/_posts/20191005-commit-msg和changelog.md?saberPage=94ac090e")
+                
+              }
+            },
+{
               path: "/page/2",
               meta: {
                 __relative: 'index.vue',
