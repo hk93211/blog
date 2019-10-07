@@ -661,6 +661,18 @@
               }
             },
 {
+              path: "/posts/20191006-仿vue-cli搭建属于自己的脚手架.html",
+              meta: {
+                __relative: '_posts/20191006-仿vue-cli搭建属于自己的脚手架.md',
+                __pageId: 'e63f1ba4'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20191006--vue-cli-----------md" */ "/Users/huangkun/Saber/pages/_posts/20191006-仿vue-cli搭建属于自己的脚手架.md?saberPage=e63f1ba4")
+                
+              }
+            },
+{
               path: "/page/2",
               meta: {
                 __relative: 'index.vue',
