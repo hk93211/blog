@@ -13,12 +13,12 @@ var layouts = {}
       layouts["page"] = layout_2
       
 
-      import layout_3 from "/Users/huangkun/Saber/layouts/post.vue"
-      layouts["post"] = layout_3
+      import layout_3 from "/Users/huangkun/Saber/layouts/recommend.vue"
+      layouts["recommend"] = layout_3
       
 
-      import layout_4 from "/Users/huangkun/Saber/layouts/recommend.vue"
-      layouts["recommend"] = layout_4
+      import layout_4 from "/Users/huangkun/Saber/layouts/post.vue"
+      layouts["post"] = layout_4
       
 
     export default layouts

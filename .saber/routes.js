@@ -613,6 +613,42 @@
               }
             },
 {
+              path: "/posts/20191005-commit-msg和changelog.html",
+              meta: {
+                __relative: '_posts/20191005-commit-msg和changelog.md',
+                __pageId: '94ac090e'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20191005-commit-msg-changelog-md" */ "/Users/huangkun/Saber/pages/_posts/20191005-commit-msg和changelog.md?saberPage=94ac090e")
+                
+              }
+            },
+{
+              path: "/posts/20191006-仿vue-cli搭建属于自己的脚手架.html",
+              meta: {
+                __relative: '_posts/20191006-仿vue-cli搭建属于自己的脚手架.md',
+                __pageId: 'e63f1ba4'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20191006--vue-cli-----------md" */ "/Users/huangkun/Saber/pages/_posts/20191006-仿vue-cli搭建属于自己的脚手架.md?saberPage=e63f1ba4")
+                
+              }
+            },
+{
+              path: "/posts/20191023-vue函数式组件.html",
+              meta: {
+                __relative: '_posts/20191023-vue函数式组件.md',
+                __pageId: '7896c880'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20191023-vue------md" */ "/Users/huangkun/Saber/pages/_posts/20191023-vue函数式组件.md?saberPage=7896c880")
+                
+              }
+            },
+{
               path: "/friends.html",
               meta: {
                 __relative: 'friends.md',
@@ -645,30 +681,6 @@
               component: function() {
                 
                 return import(/* webpackChunkName: "page--recommend-md" */ "/Users/huangkun/Saber/pages/recommend.md?saberPage=5cf5a40c")
-                
-              }
-            },
-{
-              path: "/posts/20191005-commit-msg和changelog.html",
-              meta: {
-                __relative: '_posts/20191005-commit-msg和changelog.md',
-                __pageId: '94ac090e'
-              },
-              component: function() {
-                
-                return import(/* webpackChunkName: "page--_posts-20191005-commit-msg-changelog-md" */ "/Users/huangkun/Saber/pages/_posts/20191005-commit-msg和changelog.md?saberPage=94ac090e")
-                
-              }
-            },
-{
-              path: "/posts/20191006-仿vue-cli搭建属于自己的脚手架.html",
-              meta: {
-                __relative: '_posts/20191006-仿vue-cli搭建属于自己的脚手架.md',
-                __pageId: 'e63f1ba4'
-              },
-              component: function() {
-                
-                return import(/* webpackChunkName: "page--_posts-20191006--vue-cli-----------md" */ "/Users/huangkun/Saber/pages/_posts/20191006-仿vue-cli搭建属于自己的脚手架.md?saberPage=e63f1ba4")
                 
               }
             },
