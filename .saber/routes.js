@@ -649,6 +649,18 @@
               }
             },
 {
+              path: "/css.html",
+              meta: {
+                __relative: 'css.vue',
+                __pageId: '13e88aec'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--css-vue" */ "/Users/huangkun/Saber/pages/css.vue?saberPage=13e88aec")
+                
+              }
+            },
+{
               path: "/friends.html",
               meta: {
                 __relative: 'friends.md',
