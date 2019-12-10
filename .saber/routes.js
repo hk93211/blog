@@ -649,6 +649,18 @@
               }
             },
 {
+              path: "/posts/20191210-你不知道的js技巧.html",
+              meta: {
+                __relative: '_posts/20191210-你不知道的js技巧.md',
+                __pageId: 'fa11286e'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20191210------js---md" */ "/Users/huangkun/Saber/pages/_posts/20191210-你不知道的js技巧.md?saberPage=fa11286e")
+                
+              }
+            },
+{
               path: "/css.html",
               meta: {
                 __relative: 'css.vue',

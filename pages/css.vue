@@ -12,7 +12,7 @@
 export default {
   data() {
     return {
-      letters: 'helloXx',
+      letters: '欢迎小小',
     };
   },
 }
