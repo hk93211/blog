@@ -661,6 +661,18 @@
               }
             },
 {
+              path: "/posts/20191212-image访问图片跨域的问题.html",
+              meta: {
+                __relative: '_posts/20191212-image访问图片跨域的问题.md',
+                __pageId: '285ba0b4'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20191212-image----------md" */ "/Users/huangkun/Saber/pages/_posts/20191212-image访问图片跨域的问题.md?saberPage=285ba0b4")
+                
+              }
+            },
+{
               path: "/css.html",
               meta: {
                 __relative: 'css.vue',

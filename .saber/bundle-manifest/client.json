@@ -10,8 +10,8 @@
     "images/proxy.78b8cea5.jpeg",
     "images/request.4f054314.png",
     "images/shell-webpack.522fbde4.png",
-    "js/404-page.ebc461bb.js",
-    "js/client.bc8b2983.js",
+    "js/404-page.e0148988.js",
+    "js/client.c789a426.js",
     "js/page--_posts-20150623-Hello-World-md.c28caef1.js",
     "js/page--_posts-20151023-markdown-----md.a2178510.js",
     "js/page--_posts-20160315-node---md.8c44ff03.js",
@@ -65,17 +65,18 @@
     "js/page--_posts-20190929----------md.1083cd2a.js",
     "js/page--_posts-20191005-commit-msg-changelog-md.09dccbae.js",
     "js/page--_posts-20191006--vue-cli-----------md.98a7a5d9.js",
-    "js/page--_posts-20191023-vue------md.ca9759ec.js",
-    "js/page--css-vue.0c907a59.js",
-    "js/page--friends-md.6127dd87.js",
-    "js/page--index-vue.2ebf8d8f.js",
-    "js/page--recommend-md.24a4c122.js"
+    "js/page--_posts-20191023-vue------md.925afa07.js",
+    "js/page--_posts-20191210------js---md.280bce5d.js",
+    "js/page--css-vue.2fcbcfce.js",
+    "js/page--friends-md.9fb651e5.js",
+    "js/page--index-vue.316dc098.js",
+    "js/page--recommend-md.ea8f7b7a.js"
   ],
   "initial": [
-    "js/client.bc8b2983.js"
+    "js/client.c789a426.js"
   ],
   "async": [
-    "js/404-page.ebc461bb.js",
+    "js/404-page.e0148988.js",
     "js/page--_posts-20150623-Hello-World-md.c28caef1.js",
     "js/page--_posts-20151023-markdown-----md.a2178510.js",
     "js/page--_posts-20160315-node---md.8c44ff03.js",
@@ -129,11 +130,12 @@
     "js/page--_posts-20190929----------md.1083cd2a.js",
     "js/page--_posts-20191005-commit-msg-changelog-md.09dccbae.js",
     "js/page--_posts-20191006--vue-cli-----------md.98a7a5d9.js",
-    "js/page--_posts-20191023-vue------md.ca9759ec.js",
-    "js/page--css-vue.0c907a59.js",
-    "js/page--friends-md.6127dd87.js",
-    "js/page--index-vue.2ebf8d8f.js",
-    "js/page--recommend-md.24a4c122.js"
+    "js/page--_posts-20191023-vue------md.925afa07.js",
+    "js/page--_posts-20191210------js---md.280bce5d.js",
+    "js/page--css-vue.2fcbcfce.js",
+    "js/page--friends-md.9fb651e5.js",
+    "js/page--index-vue.316dc098.js",
+    "js/page--recommend-md.ea8f7b7a.js"
   ],
   "modules": {
     "51331814": [
@@ -317,10 +319,10 @@
       0
     ],
     "0b748fba": [
-      65
+      66
     ],
     "6a17eb1f": [
-      67
+      68
     ],
     "c9879b28": [
       21,
@@ -373,13 +375,13 @@
       4
     ],
     "576c1e6b": [
-      65
+      66
     ],
     "02ecbf55": [
-      65
+      66
     ],
     "6edd47d0": [
-      65
+      66
     ],
     "7ce40c56": [
       11
@@ -552,17 +554,20 @@
       5,
       4
     ],
+    "2c15cfe3": [
+      65
+    ],
     "33ef57a5": [
-      66
+      67
     ],
     "ca8a019c": [
-      67
-    ],
-    "4fdbcaf6": [
       68
     ],
+    "4fdbcaf6": [
+      69
+    ],
     "169ba090": [
-      67
+      68
     ],
     "0515e0f0": [
       9
