@@ -721,6 +721,18 @@
               }
             },
 {
+              path: "/posts/20200210-vue.use相关学习.html",
+              meta: {
+                __relative: '_posts/20200210-vue.use相关学习.md',
+                __pageId: '26cb1457'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-20200210-vue-use-----md" */ "/Users/huangkun/Saber/pages/_posts/20200210-vue.use相关学习.md?saberPage=26cb1457")
+                
+              }
+            },
+{
               path: "/page/2",
               meta: {
                 __relative: 'index.vue',
